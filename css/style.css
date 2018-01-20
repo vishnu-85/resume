@@ -1,0 +1,11 @@
+.w3-display-bottomleft {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: #00000094;
+}
+h6 span{
+	color: #000;
+	font-size: 14px;
+}
